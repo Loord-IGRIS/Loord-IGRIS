@@ -2,14 +2,13 @@
 
 ### Hi there 👋 I'm Arturo Ponce Hernandez,
 
-I'm a second year software engineering undergraduate at University of Kelaniya and I'm also following a applied statistics diploma at IASSL.
+I am currently in my second semester at the Instituto Tecnológico de Nuevo León, where I am training to become a software engineer.
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently studying:
-	- Mobile Application Development 
-	- Web Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+I am currently learning and developing skills in programming languages such as Java, HTML, CSS, and Python. I’m interested in understanding how things work at a deeper level, so I constantly practice programming logic and build projects to strengthen my knowledge.
+
+Right now, I am focused on expanding my knowledge in technologies that will help me grow as a developer and build a strong foundation in the software field. I consider myself a responsible and consistent person, always eager to keep learning and improving both personally and professionally.
+
+My goal is to join a professional work environment where I can apply my knowledge, gain real-world experience, and continue growing as a professional in the technology field.
 
 ## My Skills Include
 
